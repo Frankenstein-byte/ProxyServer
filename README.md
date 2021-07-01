@@ -15,7 +15,7 @@ By protocol, proxies also can be using a variety of protocols to accomplish thei
 - Socks Proxies: The Socks protocol, which uses Kerberos for authentication, is also widely used for proxies.
 
 
-<img src=https://github.com/Frankenstein-byte/ProxyServer/blob/main/image.png>
+<img src=https://github.com/Frankenstein-byte/ProxyServer/blob/main/image.png width="420" height="300">
 
 
 ## Usage
