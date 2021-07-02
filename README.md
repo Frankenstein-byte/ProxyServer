@@ -24,6 +24,14 @@ By protocol, proxies also can be using a variety of protocols to accomplish thei
 python3 socks.py
 ```
 
+
+## Future work
+
+* Caching 
+* Websites and IP blocking 
+* logging for debugging
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
